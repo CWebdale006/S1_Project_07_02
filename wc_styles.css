@@ -91,7 +91,7 @@ aside div {
         display: block;
     }
 
-    /*Hides the aside element when viewed on mobile*/
+    /*Hides the aside element when viewed on mobile. */
     aside {
         display: none;
     }
